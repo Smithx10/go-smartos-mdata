@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os"
 
+	"github.com/Smithx10/go-smartos-mdata/mdata"
 	"github.com/spf13/cobra"
-	"smartos-mdata/mdata"
 )
 
 const (
